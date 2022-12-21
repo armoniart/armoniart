@@ -1,1 +1,2 @@
 # armoniart.ru
+armoniart.ru
